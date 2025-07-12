@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**theaditya-p/theaditya-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year IT student | 💻 Web Dev & DSA  
+🌱 Learning JavaScript, Java, and GitHub  
+📍 India | 📫 adityapatil0016@gmail.com
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack:
+- HTML, CSS, JavaScript
+- Java (for DSA)
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Upcoming Projects:
+- 💼 Portfolio Website – under development
+- 📚 DSA Repository (Java)
+- ✅ JavaScript Mini Projects
+
+Let's connect and grow together 🚀
