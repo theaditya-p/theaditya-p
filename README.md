@@ -1,17 +1,17 @@
 # Hi, I'm Aditya 👋
 
 🎓 3rd-year IT student | 💻 Web Dev & DSA  
-🌱 Learning JavaScript, Java, and GitHub  
+   Learning JavaScript, Java, and GitHub  
 📍 India | 📫 adityapatil0016@gmail.com
 
-### 🚀 Tech Stack:
+# 🚀 Tech Stack:
 - HTML, CSS, JavaScript
 - Java (for DSA)
 - Git, GitHub
 
-### 📌 Upcoming Projects:
-- 💼 Portfolio Website – under development
-- 📚 DSA Repository (Java)
-- ✅ JavaScript Mini Projects
+# 📌 Upcoming Projects:
+-  Portfolio Website – under development
+-  DSA Repository (Java)
+-  JavaScript Mini Projects
 
-Let's connect and grow together 🚀
+Let's connect and grow together.
