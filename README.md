@@ -1,8 +1,7 @@
 # Hi, I'm Aditya 👋
 
-🎓 3rd-year IT student | 💻 Web Dev & DSA  
-   Learning JavaScript, Java, and GitHub  
-📍 India | 📫 adityapatil0016@gmail.com
+🎓 3rd-year IT student | 💻 Web Dev, DSA, Java, and GitHub  
+📍 India | 📫 adityapatil.skncoe.it@gmail.com
 
 # 🚀 Tech Stack:
 - HTML, CSS, JavaScript
